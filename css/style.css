@@ -5,10 +5,7 @@ body{
 
 
 /* Typography */
-/*a {
-	display: inline-block;
-}
-*/a,
+a,
 input[type="submit"],
 input[type="button"],
 button{
