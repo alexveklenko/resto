@@ -126,6 +126,7 @@ img{
 }
 /* No Padding Grid */
 .ba-grid-nopad {
+	float: left;
 	margin-left: 0;
 }
 
